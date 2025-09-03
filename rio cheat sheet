@@ -1,0 +1,46 @@
+# **Rio Terminal (by raphamorim) Cheatsheet for Linux**
+
+## **Basic Shortcuts**
+- **Open Rio Terminal:**  
+  Run `rio` in your shell
+
+## **Tabs & Window**
+- **New Tab:** `Ctrl + T`
+- **Close Tab:** `Ctrl + W`
+- **Switch Tab:** `Ctrl + Tab`
+- **Reopen Closed Tab:** `Ctrl + Shift + T`
+- **New Window:** `Ctrl + Shift + N`
+
+## **Pane Management**
+- **Split Pane (Vertical):** `Ctrl + D`
+- **Split Pane (Horizontal):** `Ctrl + Shift + D`
+- **Close Pane:** `Ctrl + Shift + W`
+- **Move Between Panes:** `Ctrl + Arrow Key` (← ↑ ↓ →)
+
+## **Clipboard**
+- **Copy:** `Ctrl + Shift + C`
+- **Paste:** `Ctrl + Shift + V`
+
+## **Find & Search**
+- **Search:** `Ctrl + F`
+- **Find Next:** `Enter`
+- **Find Previous:** `Shift + Enter`
+
+## **Zoom**
+- **Zoom In:** `Ctrl + +`
+- **Zoom Out:** `Ctrl + -`
+- **Reset Zoom:** `Ctrl + 0`
+
+## **Command Palette**
+- **Open Command Palette:** `Ctrl + P`
+
+## **Settings**
+- **Open Settings:** `Ctrl + ,`
+
+## **Other**
+- **Reload Rio Terminal:** `Ctrl + R`
+- **Show Shortcuts Help:** `Ctrl + /`
+- **Clear Terminal:** `Ctrl + L`
+- **Fullscreen:** `F11`
+
+---
